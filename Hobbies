@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Hobbies</title>
+</head>
+<body bgcolor="#d0ebff" text="#333333">
+
+    <h1>My Hobbies</h1>
+
+    <ul>
+        <li>Hiking</li>
+        <li>Watching movies</li>
+        <li>Eating</li>
+        <li>Running</li>
+        <li>Learning new Technologies</li>
+    </ul>
+
+    <a href="../Resume">Back to Resume</a>
+
+</body>
+</html>
